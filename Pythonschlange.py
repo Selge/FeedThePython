@@ -8,8 +8,8 @@ window_width = 800
 window_height = 600
 screen = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Füttere die Python!")
-screen_font = pygame.font.SysFont('Snake Chan', 35)
-score_font = pygame.font.SysFont('Snake Chan', 20)
+screen_font = pygame.font.Font('./font/Snake Chan.ttf', 35)
+score_font = pygame.font.SysFont('./font/Snake Chan.ttf', 20)
 # colors
 yellow = (204, 204, 0)
 light_blue = (51, 153, 255)
