@@ -4,7 +4,7 @@
 ### How to play: ### 
 
 The game is as easy as possible: your tiny newborn python snake crawls through the screen field and eats apples falling from the trees above (the trees are not visible). 
-Each eaten apple makes your snake grow - 0,1 m (10 cm) for each apple.  
+Each eaten apple makes your snake grow: it becomes bigger at 0,1 m (10 cm) per each apple.  
 
 Your tiny python understand both standart game moving command sets: 
 
